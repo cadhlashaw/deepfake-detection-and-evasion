@@ -45,13 +45,28 @@ Experiments were primarily carried out in Google Colab using PyTorch with CUDA-e
 Some implementation details were informed by publicly available documentation, tutorials and open-source examples, including:
 
 -The FGSM and PGD attack implementations were informed by code and examples provided in teaching material from ELE8100.
--PyTorch documentation and timm 
 
+-PyTorch documentation and timm 
+https://pprp.github.io/timm/models/xception/
+https://docs.pytorch.org/docs/2.14/generated/torch.fft.fft2.html
+
+Informed by :
+
+https://danielsdiscoveries.wordpress.com/2017/09/29/spectrogram-input-normalisation-for-neural-networks/
+https://github.com/huggingface/pytorch-image-models/blob/main/timm/models/xception.py
 - GeeksforGeeks website was utilised many times for python help throughout the project 
 eg. "Implementation of a CNN based Image Classifier using PyTorch" – used as a general reference
 
 
+Ideas and motivation for architecture:
+
+https://pdfs.semanticscholar.org/1143/e556afe8a910ab9da86c7ca763838ae37efc.pdf
+https://arxiv.org/pdf/2511.19187
 
 
+
+AI: 
+
+AI was used in generating graphs and imaging,and was used as assistance in debugging my original code ideas.
 
 
