@@ -2,7 +2,9 @@
 
 This repository contains the code used for ELE8095 individual research project,investigating deepfake detection, adversarial attacks and defences.
 
-#Overview
+[Read the full thesis](docs/DeepFakeDetectionAndEvasion.pdf)
+
+# Overview
 
 The project compares a baseline XceptionNet detector with a dual-stream CombinedDetector incorporating spatial and frequency-domain features.
 
@@ -17,7 +19,7 @@ The project compares a baseline XceptionNet detector with a dual-stream Combined
 - Cross-dataset testing using StyleGAN-generated faces
 - Post-result gated-fusion and frequency-branch diagnostic analysis
 
-#Dataset 
+# Dataset 
 
 The processed experimental dataset contained:
 - 8,000 real frames
